@@ -1,6 +1,6 @@
-# FocusLoop
+# ProcrastShield
 
-FocusLoop is a desktop application that monitors user behavior during study or work sessions and analyzes attention patterns to detect distraction.
+ProcrastShield is a desktop application that monitors user behavior during study or work sessions and analyzes attention patterns to detect distraction.
 
 ## Features
 - Track active apps and usage time
