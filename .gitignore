@@ -1,14 +1,10 @@
+# Python
+data_storage/*.json
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 env/
 venv/
-.venv/
 *.env
 *.log
-data_storage/*.json
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/

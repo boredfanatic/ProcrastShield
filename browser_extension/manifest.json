@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "ProcrastShield Tracker",
+  "version": "1.0",
+  "description": "Tracks active website for ProcrastShield",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["http://localhost:5000/*"]
+}
